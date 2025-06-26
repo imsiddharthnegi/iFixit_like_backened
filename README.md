@@ -353,7 +353,3 @@ If you have any questions or need help with deployment, please:
 2. Create a new issue if your problem isn't already addressed
 3. Provide detailed information about your environment and the issue
 
----
-
-**Happy coding! 🚀**
-
