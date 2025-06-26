@@ -1,4 +1,4 @@
-# iFixit-like Backend API
+# iFixit-like Backend
 
 A RESTful API backend similar to iFixit that provides hierarchical device and repair guide data. This project demonstrates a complete backend implementation with Express.js, SQLite database, and deployment-ready configuration.
 
@@ -326,14 +326,6 @@ ifixit-backend/
 ├── server.js              # Main application file
 └── README.md              # This file
 ```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📝 License
 
